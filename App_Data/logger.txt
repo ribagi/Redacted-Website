@@ -1,0 +1,15 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/22/2015 2:39:44 PM
+Installed package GalaxyBlog by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/22/2015 5:51:27 PM
+QuickNotes.Qnotes.SaveQuickPost(): 9f815679-ad7b-40ed-bb84-b6818d7c93da : So hi
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/22/2015 5:52:15 PM
+QuickNotes.Qnotes.SaveQuickPost(): 2b92b2d0-03ee-4f4e-b717-4597844e7cca : So hi how are you to day wow this is cool 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/22/2015 6:23:57 PM
+QuickNotes.Qnotes.SaveQuickPost(): baa72d68-b0e2-47d3-87e8-8ee6dd66e3bc : Hi there
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/22/2015 9:27:56 PM
+QuickNotes.Qnotes.SaveQuickPost(): 125782cf-8b49-4f05-ada8-b08095374930 : Adasdsa

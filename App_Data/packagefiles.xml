@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<InstalledPackageFiles>
+    <item id="Redacted" fileorder="1" filepath="Custom\Themes\Redacted" isdirectory="True" />
+    <item id="Redacted" fileorder="2" filepath="Custom\Themes\Redacted\css" isdirectory="True" />
+    <item id="Redacted" fileorder="3" filepath="Custom\Themes\Redacted\css\styles.css" isdirectory="False" />
+    <item id="Redacted" fileorder="4" filepath="Custom\Themes\Redacted\fonts" isdirectory="True" />
+    <item id="Redacted" fileorder="5" filepath="Custom\Themes\Redacted\fonts\fontello.eot" isdirectory="False" />
+    <item id="Redacted" fileorder="6" filepath="Custom\Themes\Redacted\fonts\fontello.svg" isdirectory="False" />
+    <item id="Redacted" fileorder="7" filepath="Custom\Themes\Redacted\fonts\fontello.ttf" isdirectory="False" />
+    <item id="Redacted" fileorder="8" filepath="Custom\Themes\Redacted\fonts\fontello.woff" isdirectory="False" />
+    <item id="Redacted" fileorder="9" filepath="Custom\Themes\Redacted\images" isdirectory="True" />
+    <item id="Redacted" fileorder="10" filepath="Custom\Themes\Redacted\images\carrow.png" isdirectory="False" />
+    <item id="Redacted" fileorder="11" filepath="Custom\Themes\Redacted\images\cover.jpg" isdirectory="False" />
+    <item id="Redacted" fileorder="12" filepath="Custom\Themes\Redacted\images\designer.png" isdirectory="False" />
+    <item id="Redacted" fileorder="13" filepath="Custom\Themes\Redacted\images\logo.png" isdirectory="False" />
+    <item id="Redacted" fileorder="14" filepath="Custom\Themes\Redacted\js" isdirectory="True" />
+    <item id="Redacted" fileorder="15" filepath="Custom\Themes\Redacted\js\bootstrap.min.js" isdirectory="False" />
+    <item id="Redacted" fileorder="16" filepath="Custom\Themes\Redacted\CommentForm.ascx" isdirectory="False" />
+    <item id="Redacted" fileorder="17" filepath="Custom\Themes\Redacted\CommentView.ascx" isdirectory="False" />
+    <item id="Redacted" fileorder="18" filepath="Custom\Themes\Redacted\newsletter.html" isdirectory="False" />
+    <item id="Redacted" fileorder="19" filepath="Custom\Themes\Redacted\PostNavigation.ascx" isdirectory="False" />
+    <item id="Redacted" fileorder="20" filepath="Custom\Themes\Redacted\PostView.ascx" isdirectory="False" />
+    <item id="Redacted" fileorder="21" filepath="Custom\Themes\Redacted\RelatedPosts.ascx" isdirectory="False" />
+    <item id="Redacted" fileorder="22" filepath="Custom\Themes\Redacted\site.master" isdirectory="False" />
+    <item id="Redacted" fileorder="23" filepath="Custom\Themes\Redacted\theme.png" isdirectory="False" />
+    <item id="Redacted" fileorder="24" filepath="Custom\Themes\Redacted\theme.xml" isdirectory="False" />
+    <item id="Redacted" fileorder="25" filepath="Custom\Themes\Redacted\WidgetContainer.ascx" isdirectory="False" />
+</InstalledPackageFiles>

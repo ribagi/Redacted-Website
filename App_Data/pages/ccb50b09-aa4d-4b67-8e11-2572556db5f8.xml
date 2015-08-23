@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<page>
+  <title>Privacy</title>
+  <description>TODO</description>
+  <content>&lt;p&gt;TODO&lt;/p&gt;</content>
+  <keywords />
+  <slug>privacy</slug>
+  <parent>00000000-0000-0000-0000-000000000000</parent>
+  <isfrontpage>False</isfrontpage>
+  <showinlist>True</showinlist>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <sortorder>0</sortorder>
+  <datecreated>2015-08-22 21:30:00</datecreated>
+  <datemodified>2015-08-22 21:30:45</datemodified>
+</page>
